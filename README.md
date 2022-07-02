@@ -4,9 +4,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tinkerbell07.tinkerbell07" />
 <img align="right" src="https://img.shields.io/github/followers/tinkerbell07?label=Follow&style=social" />
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=tinkerbell07&show_icons=true&theme=merko&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerbell07&layout=compact&theme=merko&count_private=true">
-    </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
 <table>
     <tr>
