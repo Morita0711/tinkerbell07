@@ -2,7 +2,8 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tinkerbell07.tinkerbell07" />
+<img align="right" src="https://img.shields.io/github/followers/tinkerbell07?label=Follow&style=social" />
 <h1 align="center"></h1>
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=tinkerbell07&theme=github&count_private=true" /> -->
 <h1 align="center"></h1>
