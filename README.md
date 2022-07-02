@@ -1,7 +1,7 @@
 ### 🔥 Enthusiastic and creative developer with hands-on skills in a wide range of web applications
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tinkerbell07.tinkerbell07" />
+
 <img align="right" src="https://img.shields.io/github/followers/tinkerbell07?label=Follow&style=social" />
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
