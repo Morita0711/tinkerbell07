@@ -4,10 +4,7 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tinkerbell07.tinkerbell07" />
 <img align="right" src="https://img.shields.io/github/followers/tinkerbell07?label=Follow&style=social" />
-<h1 align="center"></h1>
-<!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=tinkerbell07&theme=github&count_private=true" /> -->
-<h1 align="center"></h1>
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerbell07&layout=compact&theme=chartreuse-dark&langs_count=8" />
+
 
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
