@@ -38,6 +38,18 @@
 <!-- <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
 
 <div> -->
+## Contact me
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moritaamaya0711@gmail.com)
+
+[![image](https://camo.githubusercontent.com/40270e48ff24beaa012dcd6a4600d637ff6281eee4d92b976359a9df916903af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536b7970652d3030373864343f7374796c653d666f722d7468652d6261646765266c6f676f3d736b797065266c6f676f436f6c6f723d7768697465)](https://join.skype.com/invite/yw9GdUNGdI2n)
+
+[![image](https://camo.githubusercontent.com/b91c47a9d84c4b9cf9ae0949e0daf0684dc5b0750f76583853518f1ebf3cbba1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3333393065633f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/MoritaAmaya0711)
+
+[![image](https://camo.githubusercontent.com/d187e41f9b00fe3127bc70c57e0bef354ef4c881e96489d3dc8dc0215e5d5ef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3030616365653f7374796c653d666c61742d737175617265266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/morita-amaya-b1b1b7243/)
+
+[![image](https://camo.githubusercontent.com/d187e41f9b00fe3127bc70c57e0bef354ef4c881e96489d3dc8dc0215e5d5ef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3030616365653f7374796c653d666c61742d737175617265266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/moritaamaya)
+
 
 <!-- Over the past 5 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br> -->
 
