@@ -2,8 +2,6 @@
 
 👾 Software Engineer 🖋 Tech writer ☕️ Open-sourcerer 🎸 Wanna-be musician
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tinkerbell07&show_icons=true&icon_color=be8150&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 ## Contact me
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moritaamaya0711@gmail.com )
