@@ -1,5 +1,7 @@
 # Morita Amaya
 
+https://github-readme-stats.vercel.app/api?username=tinkerbell07&show_icons=true&icon_color=be8150&text_color=24292e&bg_color=ffffff&hide_title=true
+
 👾 Software Engineer 🖋 Tech writer ☕️ Open-sourcerer 🎸 Wanna-be musician
 
 ## Contact me
@@ -10,9 +12,6 @@
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/992899869700272150)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morita-amaya-b1b1b7243/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moritaamaya)
-
-<img align="right" style="display:flex; justify-content: center" src="https://github-readme-stats.vercel.app/api?username=ashchan&show_icons=true&icon_color=be8150&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 ## Short bio
 
 👶 When Pedro was 10, his father brought home a ZX-Spectrum computer. After he plugged it to the power and TV, Pedro typed and stared at the blinking cursor. Since then, computers have been an important part of his life.
