@@ -1,8 +1,13 @@
 # Morita Amaya
+<div>
+👾 Software Engineer 🖋 Tech writer ☕️ Open-sourcerer 🎸 Wanna-be musician
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=tinkerbell07&show_icons=true&icon_color=be8150&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-<div>👾 Software Engineer 🖋 Tech writer ☕️ Open-sourcerer 🎸 Wanna-be musician</div>
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinkerbell07&show_icons=true&icon_color=be8150&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 ## Contact me
 
