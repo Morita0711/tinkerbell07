@@ -1,3 +1,7 @@
+# Morita Amaya
+
+👾 Software Engineer 🖋 Tech writer ☕️ Open-sourcerer 🎸 Wanna-be musician
+
 ## Contact me
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moritaamaya0711@gmail.com )
@@ -8,9 +12,7 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moritaamaya)
 
 
-# Morita Amaya
 
-👾 Software Engineer 🖋 Tech writer ☕️ Open-sourcerer 🎸 Wanna-be musician
 
 ## Short bio
 
