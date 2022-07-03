@@ -2,17 +2,18 @@
 
 👾 Software Engineer 🖋 Tech writer ☕️ Open-sourcerer 🎸 Wanna-be musician
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ashchan&show_icons=true&icon_color=be8150&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 ## Contact me
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moritaamaya0711@gmail.com )
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/yw9GdUNGdI2n)
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MoritaAmaya0711)
-[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/alchemist33#3131)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/992899869700272150)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morita-amaya-b1b1b7243/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moritaamaya)
 
-
-
+<img align="right" style="display:flex; justify-content: center" src="https://github-readme-stats.vercel.app/api?username=ashchan&show_icons=true&icon_color=be8150&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 ## Short bio
 
