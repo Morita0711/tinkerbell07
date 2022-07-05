@@ -22,7 +22,7 @@
 
 ## Short bio
 
-👶 When Pedro was 10, his father brought home a ZX-Spectrum computer. After he plugged it to the power and TV, Pedro typed and stared at the blinking cursor. Since then, computers have been an important part of his life.
+👶 When Morita was 10, his father brought home a ZX-Spectrum computer. After he plugged it to the power and TV, Pedro typed and stared at the blinking cursor. Since then, computers have been an important part of his life.
 
 👦 At 18 he went to Osaka  to study Software Engineering at The Tokyo University, and before he finished it he had already started working for the software industry.
 
